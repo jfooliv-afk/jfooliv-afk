@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Olá, eu sou João Francisco de Oliveira
 
-<!--
-**jfooliv-afk/jfooliv-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔒 Profissional com experiência em Monitoramento Eletrônico, CFTV e Segurança Patrimonial.
 
-Here are some ideas to get you started:
+💻 Atualmente estudando Desenvolvimento Web com foco em:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* JavaScript
+* React
+* GitHub
+* Supabase
+* HTML
+* CSS
+
+🚀 Em transição para a área de tecnologia, desenvolvendo projetos práticos e aplicações web modernas.
+
+---
+
+## 🌐 Portfólio
+
+https://meu-portfolio-iota-blond.vercel.app/
+
+---
+
+## 💼 LinkedIn
+
+https://www.linkedin.com/in/joao-francisco-oliveira-sp
+
+---
+
+## 📚 Projetos em destaque
+
+* chat-financas-ease
+* meu-portfolio
+* pokemon-dio
+* desafio.js
+
+---
+
+## 🚀 Objetivo
+
+Buscar oportunidades nas áreas de tecnologia, desenvolvimento web, suporte técnico ou segurança eletrônica integrada à tecnologia.
+
