@@ -1,3 +1,5 @@
+![Banner](./banner-tech.png)
+
 # 👋 Olá, eu sou João Francisco de Oliveira
 
 🔒 Profissional com experiência em Monitoramento Eletrônico, CFTV e Segurança Patrimonial.
