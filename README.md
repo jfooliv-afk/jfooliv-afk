@@ -1,4 +1,4 @@
-banner-tech.png
+![Banner](./banner-tech.png.png)
 
 # 👋 Olá, eu sou João Francisco de Oliveira
 
